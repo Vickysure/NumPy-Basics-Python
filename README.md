@@ -8,7 +8,7 @@ A beginner-friendly python-Jupyter Notebook project that explores the fundamenta
 
 ---
 
-# Project Overview
+## Project Overview
 This project demonstrates practical NumPy skills through a series of exercises, a challenge task, and mini-projects focused on temperature/weather datasets . It also highlights why NumPy arrays are preferred over Python lists for numerical work — particularly for speed, memory efficiency, and clean element-wise operations.
 
 <p align="center">
@@ -17,7 +17,7 @@ This project demonstrates practical NumPy skills through a series of exercises, 
 
 ---
 
-# Contents
+## Contents
 
 | SECTION    | DESCRIPTION |
 |------|----------|
@@ -30,63 +30,71 @@ This project demonstrates practical NumPy skills through a series of exercises, 
 
 ---
 
-# Tools and Technologies Used
+## Tools and Technologies Used
 - **PYTHON**
 - **NUMPY** - python main library used for array creation, element-wise operation and broadcasting.
 - **Jupyter Notebook** - the environment for running and documenting the code.
 
   ---
 
-  # How to Run
+  ## How to Run
   1. Clone this Repository
+     ```bash
      git clone https://github.com/<your-username>/<your-repository-name>.git
      cd <your-repository-name>
+     ```
 
-  2. Install the Required Dependency
+  3. Install the Required Dependency
+     
+     ```bash
      pip install numpy jupyter
+     ```
 
-  3. Launch Jupyter Notebook
+  5. Launch Jupyter Notebook
+     ```bash
      jupyter notebook
+     ```
 
-  4. **Open** Exercise 14-Working with NumPy Basics.ipynb and run the cells in order.
+  7. **Open `Exercise 14-Working with NumPy Basics.ipynb` and run the cells in order.**
+     ```
 
   ---
 
-  # Project Screenshots
+  ## Project Screenshots
   <p align="center">
-<img src="./Screenshot/pic 3.png" width="900">
+<img src="./Screenshot/pic 3.png" width="600">
 </p>
 <p align="center">
-<img src="./Screenshot/pic 4.png" width="900">
+<img src="./Screenshot/pic 4.png" width="600">
 </p>
 <p align="center">
-<img src="./Screenshot/pic 5.png" width="900">
+<img src="./Screenshot/pic 5.png" width="600">
 </p>
 <p align="center">
-<img src="./Screenshot/pic 6.png" width="900">
+<img src="./Screenshot/pic 6.png" width="600">
 </p>
 <p align="center">
-<img src="./Screenshot/pic 7.png" width="900">
+<img src="./Screenshot/pic 7.png" width="600">
 </p>
 <p align="center">
-<img src="./Screenshot/pic 8.png" width="900">
+<img src="./Screenshot/pic 8.png" width="600">
 </p>
 <p align="center">
-<img src="./Screenshot/pic 9.png" width="900">
+<img src="./Screenshot/pic 9.png" width="600">
 </p>
 <p align="center">
-<img src="./Screenshot/pic 10.png" width="900">
+<img src="./Screenshot/pic 10.png" width="600">
 </p>
 <p align="center">
-<img src="./Screenshot/pic 11.png" width="900">
+<img src="./Screenshot/pic 11.png" width="600">
 </p>
 <p align="center">
-<img src="./Screenshot/pic 12.png" width="900">
+<img src="./Screenshot/pic 12.png" width="600">
 </p>
 
 ---
 
-  # Key Learnings
+  ## Key Learnings
 - NumPy arrays support element-wise arithmetic, unlike Python lists which concatenate on +.
 - Broadcasting allows a scalar value to be applied across an entire array without writing loops.
 - NumPy is significantly faster and more memory-efficient than plain Python lists, especially as data size grows.
@@ -94,7 +102,7 @@ This project demonstrates practical NumPy skills through a series of exercises, 
 
 ---
 
-# Recommendations
+## Recommendations
 - Extend the analysis with NumPy's statistical functions (np.mean(), np.max(), np.min(), np.std()) to summarize the data further.
 - Visualize the temperature and sales trends using Matplotlib or Seaborn for clearer insights.
 - Practice with larger, real-world datasets (e.g., CSV weather data) to better appreciate NumPy's performance advantages.
@@ -102,15 +110,16 @@ This project demonstrates practical NumPy skills through a series of exercises, 
 
 ---
 
-# Conclusion
+## Conclusion
 This project reinforces the foundational role NumPy plays in data analysis and scientific computing in Python. Through simple, relatable examples — sales figures and weather temperatures — it shows how NumPy simplifies numerical operations that would otherwise require manual loops with plain Python lists, making code more concise, readable, and efficient.
 
 ---
 
-# Acknowledgements
+## Acknowledgements
 Special Thanks to Coach Timothy Amaefule and SmartBizCrux Technologies.
 
 ---
 
-# Author
-**Ukachi Victor Chiemela** [ukadovicky07@gmail.com] [https://www.linkedin.com/in/victor-ukachi-systems-engineer/]
+## Author
+**Ukachi Victor Chiemela** 
+Contact Me -> **Email**: [ukadovicky07@gmail.com], **LinkedIn**: [https://www.linkedin.com/in/victor-ukachi-systems-engineer/]
