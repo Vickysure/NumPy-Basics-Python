@@ -64,15 +64,21 @@ This project demonstrates practical NumPy skills through a series of exercises, 
 <p align="center">                            
 <img src="./Screenshot/pic 3.png" width="300">
 </p>
+
 ---
+
 <p align="center">
 <img src="./Screenshot/pic 4.png" width="300">
 </p>
+
 ---
+
 <p align="center">
 <img src="./Screenshot/pic 5.png" width="300">
 </p>
+
 ---
+
 <p align="center">
 <img src="./Screenshot/pic 6.png" width="300">
 </p>
