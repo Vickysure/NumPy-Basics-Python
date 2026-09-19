@@ -1,4 +1,4 @@
-# Introduction to NumPy Arrays - PYTHON
+# NumPy Arrays - PYTHON
 This is a Hand-on Exercise Practice Project to Demonstrate my Understanding of the Intro to NumPy lesson material, in the PYTHON STUDY GROUP (PSG) with Coach Timothy under the learning platform of SmartBizCrux Technologies.
 A beginner-friendly python-Jupyter Notebook project that explores the fundamentals of NumPy, which is Python's main library for numerical computing. This project progresses from demonstrating the importation of Numpy into the notebook environment, to basic array creation, element-wise arithmetic, broadcasting, and two mini real-world projects that analyzes weather/temperature data.
 
@@ -62,34 +62,16 @@ This project demonstrates practical NumPy skills through a series of exercises, 
 
   ## Project Screenshots
   <p align="center">
-<img src="./Screenshot/pic 3.png" width="600">
+<img src="./Screenshot/pic 3.png" width="300">
 </p>
 <p align="center">
-<img src="./Screenshot/pic 4.png" width="600">
+<img src="./Screenshot/pic 4.png" width="300">
 </p>
 <p align="center">
-<img src="./Screenshot/pic 5.png" width="600">
+<img src="./Screenshot/pic 5.png" width="300">
 </p>
 <p align="center">
-<img src="./Screenshot/pic 6.png" width="600">
-</p>
-<p align="center">
-<img src="./Screenshot/pic 7.png" width="600">
-</p>
-<p align="center">
-<img src="./Screenshot/pic 8.png" width="600">
-</p>
-<p align="center">
-<img src="./Screenshot/pic 9.png" width="600">
-</p>
-<p align="center">
-<img src="./Screenshot/pic 10.png" width="600">
-</p>
-<p align="center">
-<img src="./Screenshot/pic 11.png" width="600">
-</p>
-<p align="center">
-<img src="./Screenshot/pic 12.png" width="600">
+<img src="./Screenshot/pic 6.png" width="300">
 </p>
 
 ---
