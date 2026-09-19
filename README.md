@@ -37,30 +37,30 @@ This project demonstrates practical NumPy skills through a series of exercises, 
 
   ---
 
-  ## How to Run
-  1. Clone this Repository
+## How to Run
+1. Clone this Repository
      ```bash
      git clone https://github.com/<your-username>/<your-repository-name>.git
      cd <your-repository-name>
      ```
 
-  3. Install the Required Dependency
+2. Install the Required Dependency
      
      ```bash
      pip install numpy jupyter
      ```
 
-  5. Launch Jupyter Notebook
+3. Launch Jupyter Notebook
      ```bash
      jupyter notebook
      ```
 
-  7. **Open `Exercise 14-Working with NumPy Basics.ipynb` and run the cells in order.**
+4. **Open `Exercise 14-Working with NumPy Basics.ipynb` and run the cells in order.**
      ```
 
   ---
 
-  ## Project Screenshots
+## Project Screenshots
 <p align="center">                            
 <img src="./Screenshot/pic 3.png" width="300">
 </p>
@@ -85,7 +85,7 @@ This project demonstrates practical NumPy skills through a series of exercises, 
 
 ---
 
-  ## Key Learnings
+## Key Learnings
 - NumPy arrays support element-wise arithmetic, unlike Python lists which concatenate on +.
 - Broadcasting allows a scalar value to be applied across an entire array without writing loops.
 - NumPy is significantly faster and more memory-efficient than plain Python lists, especially as data size grows.
